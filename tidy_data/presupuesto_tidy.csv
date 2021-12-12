@@ -1,57 +1,57 @@
-CICLO,DESC_TIPOGASTO,MONTO_APROBADO,MONTO_EJERCICIO,outlier
-2008,Gasto corriente,161943397386.0,0.0,1
-2008,Gasto de capital diferente de obra pública,8656397299.0,0.0,1
-2008,Gasto de obra pública,2898005315.0,0.0,1
-2009,Gasto corriente,190493927184.0,0.0,1
-2009,Gasto de capital diferente de obra pública,3834693893.0,0.0,1
-2009,Gasto de obra pública,6601936588.0,0.0,1
-2010,Gasto corriente,200710115601.0,0.0,1
-2010,Gasto corriente por concepto de gastos indirectos de programas de subsidios,1913209901.0,0.0,1
-2010,Gasto de capital diferente de obra pública,3527667221.0,0.0,1
-2010,Gasto de inversión por concepto de gastos indirectos de programas de subsidios,187589091.0,0.0,1
-2010,Gasto de obra pública,4847577296.0,0.0,1
-2011,Gasto corriente,213281943772.0,0.0,1
-2011,Gasto corriente por concepto de gastos indirectos de programas de subsidios,2651575088.0,0.0,1
-2011,Gasto de capital diferente de obra pública,7192331498.0,0.0,1
-2011,Gasto de inversión por concepto de gastos indirectos de programas de subsidios,184593989.0,0.0,1
-2011,Gasto de obra pública,7374106375.0,0.0,1
-2012,Gasto corriente,239227867350.0,0.0,1
-2012,Gasto corriente por concepto de gastos indirectos de programas de subsidios,1547607057.0,0.0,1
-2012,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,544055184.0,0.0,1
-2012,Gasto de capital diferente de obra pública,5596257829.0,0.0,1
-2012,Gasto de inversión por concepto de gastos indirectos de programas de subsidios,501795088.0,0.0,1
-2012,Gasto de obra pública,4346995424.0,0.0,1
-2013,Gasto corriente,249532436503.0,274782789064.17,-1
-2013,Gasto corriente por concepto de gastos indirectos de programas de subsidios,909468559.0,419340968.64,1
-2013,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,544055184.0,825954601.8,1
-2013,Gasto de capital diferente de obra pública,5374023893.0,9907642908.039999,1
-2013,Gasto de inversión por concepto de gastos indirectos de programas de subsidios,744703.0,0.0,1
-2013,Gasto de obra pública,3916490829.0,4368183100.84,1
-2014,Gasto corriente,282259067252.0,307158821567.04,-1
-2014,Gasto corriente por concepto de gastos indirectos de programas de subsidios,3402746212.0,2643706590.15,1
-2014,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,176755184.0,164867055.6,1
-2014,Gasto de capital diferente de obra pública,3263627571.0,4683028188.06,1
-2014,Gasto de obra pública,3446581026.0,4521835772.97,1
-2015,Gasto corriente,295987866174.0,314671785354.39,-1
-2015,Gasto corriente por concepto de gastos indirectos de programas de subsidios,1236131698.0,605746839.85,1
-2015,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,382981901.0,426311673.09000003,1
-2015,Gasto de capital diferente de obra pública,3407846272.0,5620956299.29,1
-2015,Gasto de obra pública,4042317504.0,4872978681.07,1
-2016,Gasto corriente,298017336678.0,314863208839.43,-1
-2016,Gasto corriente por concepto de gastos indirectos de programas de subsidios,940549770.0,605985165.9399999,1
-2016,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,364487156.0,311786953.97,1
-2016,Gasto de capital diferente de obra pública,2456799570.0,3886188215.26,1
-2016,Gasto de obra pública,1207382507.0,3273604951.3,1
-2017,Gasto corriente,265583275862.0,296853821605.05,-1
-2017,Gasto corriente por concepto de gastos indirectos de programas de subsidios,238982446.0,743830467.66,1
-2017,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,144421352.0,314087640.49,1
-2017,Gasto de capital diferente de obra pública,912320683.0,3551806859.63,1
-2017,Gasto de obra pública,776184878.0,846693037.6,1
-2018,Gasto corriente,278967419155.0,310605998499.67,-1
-2018,Gasto corriente por concepto de gastos indirectos de programas de subsidios,245625283.0,720188504.64,1
-2018,Gasto de capital diferente de obra pública,959520606.0,3256050539.69,1
-2018,Gasto de obra pública,796737322.0,884316241.3399999,1
-2019,Gasto corriente,306678818263.0,0.0,1
-2019,Gasto corriente por concepto de gastos indirectos de programas de subsidios,179746289.0,0.0,1
-2019,Gasto de capital diferente de obra pública,268083940.0,0.0,1
-2019,Gasto de obra pública,873786229.0,0.0,1
+CICLO,DESC_TIPOGASTO,MONTO_APROBADO,MONTO_EJERCICIO
+2008,Gasto corriente,161943397386.0,0.0
+2008,Gasto de capital diferente de obra pública,8656397299.0,0.0
+2008,Gasto de obra pública,2898005315.0,0.0
+2009,Gasto corriente,190493927184.0,0.0
+2009,Gasto de capital diferente de obra pública,3834693893.0,0.0
+2009,Gasto de obra pública,6601936588.0,0.0
+2010,Gasto corriente,200710115601.0,0.0
+2010,Gasto corriente por concepto de gastos indirectos de programas de subsidios,1913209901.0,0.0
+2010,Gasto de capital diferente de obra pública,3527667221.0,0.0
+2010,Gasto de inversión por concepto de gastos indirectos de programas de subsidios,187589091.0,0.0
+2010,Gasto de obra pública,4847577296.0,0.0
+2011,Gasto corriente,213281943772.0,0.0
+2011,Gasto corriente por concepto de gastos indirectos de programas de subsidios,2651575088.0,0.0
+2011,Gasto de capital diferente de obra pública,7192331498.0,0.0
+2011,Gasto de inversión por concepto de gastos indirectos de programas de subsidios,184593989.0,0.0
+2011,Gasto de obra pública,7374106375.0,0.0
+2012,Gasto corriente,239227867350.0,0.0
+2012,Gasto corriente por concepto de gastos indirectos de programas de subsidios,1547607057.0,0.0
+2012,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,544055184.0,0.0
+2012,Gasto de capital diferente de obra pública,5596257829.0,0.0
+2012,Gasto de inversión por concepto de gastos indirectos de programas de subsidios,501795088.0,0.0
+2012,Gasto de obra pública,4346995424.0,0.0
+2013,Gasto corriente,249532436503.0,274782789064.17
+2013,Gasto corriente por concepto de gastos indirectos de programas de subsidios,909468559.0,419340968.64
+2013,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,544055184.0,825954601.8
+2013,Gasto de capital diferente de obra pública,5374023893.0,9907642908.039999
+2013,Gasto de inversión por concepto de gastos indirectos de programas de subsidios,744703.0,0.0
+2013,Gasto de obra pública,3916490829.0,4368183100.84
+2014,Gasto corriente,282259067252.0,307158821567.04
+2014,Gasto corriente por concepto de gastos indirectos de programas de subsidios,3402746212.0,2643706590.15
+2014,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,176755184.0,164867055.6
+2014,Gasto de capital diferente de obra pública,3263627571.0,4683028188.06
+2014,Gasto de obra pública,3446581026.0,4521835772.97
+2015,Gasto corriente,295987866174.0,314671785354.39
+2015,Gasto corriente por concepto de gastos indirectos de programas de subsidios,1236131698.0,605746839.85
+2015,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,382981901.0,426311673.09000003
+2015,Gasto de capital diferente de obra pública,3407846272.0,5620956299.29
+2015,Gasto de obra pública,4042317504.0,4872978681.07
+2016,Gasto corriente,298017336678.0,314863208839.43
+2016,Gasto corriente por concepto de gastos indirectos de programas de subsidios,940549770.0,605985165.9399999
+2016,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,364487156.0,311786953.97
+2016,Gasto de capital diferente de obra pública,2456799570.0,3886188215.26
+2016,Gasto de obra pública,1207382507.0,3273604951.3
+2017,Gasto corriente,265583275862.0,296853821605.05
+2017,Gasto corriente por concepto de gastos indirectos de programas de subsidios,238982446.0,743830467.66
+2017,Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago,144421352.0,314087640.49
+2017,Gasto de capital diferente de obra pública,912320683.0,3551806859.63
+2017,Gasto de obra pública,776184878.0,846693037.6
+2018,Gasto corriente,278967419155.0,310605998499.67
+2018,Gasto corriente por concepto de gastos indirectos de programas de subsidios,245625283.0,720188504.64
+2018,Gasto de capital diferente de obra pública,959520606.0,3256050539.69
+2018,Gasto de obra pública,796737322.0,884316241.3399999
+2019,Gasto corriente,306678818263.0,0.0
+2019,Gasto corriente por concepto de gastos indirectos de programas de subsidios,179746289.0,0.0
+2019,Gasto de capital diferente de obra pública,268083940.0,0.0
+2019,Gasto de obra pública,873786229.0,0.0
