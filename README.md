@@ -21,5 +21,5 @@ El proyecto fue enfocado a la implementación de los conocimientos adquiridos du
 
 
 ### Referencias
-* (Transparencia presupuestaria)[https://www.transparenciapresupuestaria.gob.mx/es/PTP/Datos_Abiertos]
-* (Banco Mundial)[https://datos.bancomundial.org/]
+* [Transparencia presupuestaria](https://www.transparenciapresupuestaria.gob.mx/es/PTP/Datos_Abiertos)
+* [Banco Mundial](https://datos.bancomundial.org/)
