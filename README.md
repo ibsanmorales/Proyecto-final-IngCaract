@@ -18,3 +18,8 @@ El proyecto fue enfocado a la implementación de los conocimientos adquiridos du
 -	Corre Eda para quedes un vistazo a los datos y saques tus conclusiones o generes nuevo conocimiento
 
 -	Corre el main (reporte markdown)
+
+
+### Referencias
+* (Transparencia presupuestaria)[https://www.transparenciapresupuestaria.gob.mx/es/PTP/Datos_Abiertos]
+* (Banco Mundial)[https://datos.bancomundial.org/]
